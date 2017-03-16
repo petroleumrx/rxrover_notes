@@ -17,4 +17,8 @@
 - make changes in /c/Development/DriverApp/
 - delete folder: /c/Development/DriverApp/dist
 - run $ grunt prd
-
+- use filezilla to connect to rxrover machine 
+- locate jobber folder 
+- delete all items in the jobber folder 
+- move content in dist over 
+- update api/config.php
