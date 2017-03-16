@@ -1,15 +1,23 @@
 # rxrover_notes
 
 
-###### Where data is sent to by the app:
-- /app/SyncData/5/
-
 ###### url:
 - http://rxrover.petroleumrx.com/
+- http://rxrover.petroleumrx.com/hunt
+- http://rxrover.petroleumrx.com/hunttest
+- http://rxrover.petroleumrx.com/rxdemo
 
 
 ###### where the git repo is in brian's computer:
 - /c/Development/DriverApp/
+
+###### and a testing copy for apache in brian's computer:
+- C:\Apache24\htdocs\RxRover\
+
+
+###### Where data is sent to by the app:
+- /app/SyncData/5/
+
 
 
 # How to add changes:
