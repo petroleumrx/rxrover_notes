@@ -6,3 +6,7 @@
 
 ###### url:
 - http://rxrover.petroleumrx.com/
+
+
+###### where the git repo is in brian's computer:
+- /c/Development/DriverApp/
