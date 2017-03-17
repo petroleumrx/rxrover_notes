@@ -6,6 +6,7 @@
 - http://rxrover.petroleumrx.com/hunt
 - http://rxrover.petroleumrx.com/hunttest
 - http://rxrover.petroleumrx.com/rxdemo
+- http://localhost/RxRover/app/ # local
 
 
 ###### where the git repo is in brian's computer:
