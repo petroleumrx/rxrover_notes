@@ -21,6 +21,10 @@
 
 
 
+###### client side database:
+- pouchdb  (https://pouchdb.com/)
+
+
 # How to add changes:
 
 - make changes in /c/Development/DriverApp/
