@@ -20,9 +20,19 @@
 - /app/SyncData/5/
 
 
+# implementation hints
 
 ###### client side database:
 - pouchdb  (https://pouchdb.com/)
+
+###### `/app` folder is for development
+###### `/dist` folder is for production
+
+
+
+
+
+
 
 
 # How to add changes:
