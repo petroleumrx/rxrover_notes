@@ -11,6 +11,7 @@
 - http://rxrover.petroleumrx.com/hunttest
 - http://rxrover.petroleumrx.com/rxdemo
 - http://localhost/RxRover/app/ # local
+- chrome://appcache-internals/# # in Chrome to manage the appcache
 
 
 ###### where the git repo is in brian's computer:
